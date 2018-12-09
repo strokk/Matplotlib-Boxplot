@@ -28,7 +28,7 @@ Number|Description
 
   From there I have used Jupyter notebook [2] to proceed with my investigation , and in case you require assistance installing and running Jupyter notebook to read this investigation, please follow the instructions on the reference link. [3]
 
-<p align="center"><img src="https://matplotlib.org/_static/logo2.png" width=250px></p><br><p align="center">Matplotlib</p>
+<p align="center"><img src="https://matplotlib.org/_static/logo2.png" width=250px></p>
   
 In the first section of the notebook I have given some introduction regarding the matplotlib library and the use of boxplot, it’s history, how to read it and when to use it.
 
@@ -44,7 +44,9 @@ And finally some of the alternatives of a boxplot, such as the histogram, densit
 ### REFERENCES
 
 [1] https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html
+
 [2] http://jupyter.org/
+
 [3] http://jupyter.org/install
 
 All other refences used to complete this project has been added in the jupyter notebook
