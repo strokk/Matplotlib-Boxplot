@@ -30,6 +30,12 @@ Number|Description
 
 <p align="center"><img src="https://matplotlib.org/_static/logo2.png" width=250px></p><br><p align="center">Matplotlib</p>
   
+In the first section of the notebook I have given some introduction regarding the matplotlib library and the use of boxplot, it’s history, how to read it and when to use it.
+
+In the next section, I have plotted a boxplot from a dataset that contains the closing price in USD for four different crypto coins from since mid 2017 until Nov 2018.
+
+And finally some of the alternatives of a boxplot, such as the histogram, density plot and bean plot, and analyzed its differences and similarities between each others.
+
   
   ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,8 +47,7 @@ Number|Description
 [2] http://jupyter.org/
 [3] http://jupyter.org/install
 
-
-### REFERENCES USED ON THE JUPYTER NOTEBOOK INVESTIGATION
+All other refences used to complete this project has been added in the jupyter notebook
 
 
 
